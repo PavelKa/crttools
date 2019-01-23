@@ -1,0 +1,1 @@
+go build -i -buildmode=c-shared -o build\crttoolsw.dll Crttools.go
